@@ -1,6 +1,6 @@
 package main
 
-import "belajar-go/helpers"
+import "github.com/rpturbina/learn-go-fga/belajar-go/helpers"
 
 func main() {
 	helpers.Greet()
